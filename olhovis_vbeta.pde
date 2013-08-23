@@ -5,9 +5,8 @@
 // from the serial port at 9600 baud and graphs them. It expects values in the
 // range 0 to 1023, followed by a newline, or newline and carriage return
 
-// Created 20 Apr 2005
-// Updated 18 Jan 2008
-// by Tom Igoe
+// Created 19 Aug 2013
+// by alberto_harres in NANO (Nucleo of Art and New Organisms) / UFRJ
 // This example code is in the public domain.
 float R, G, B;
 
